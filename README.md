@@ -2,7 +2,7 @@
 
 This repository contains the source code of my **personal portfolio website**, showcasing my academic projects, skills, and achievements.  
 
-🚀 **Live Portfolio:** [Visit Here](https://kathullayamini.github.io/)  
+🚀 **Live Portfolio:** [Visit Here](https://kathulla-yamini-portfolio.netlify.app/)  
 
 ---
 
